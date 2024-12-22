@@ -1,0 +1,38 @@
+[
+  {
+    "name": "ClearPoint City",
+    "price": "27,043",
+    "detail": "N0.163,Main Street,Colombo 04",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Colombo Grand City",
+    "price": "36,353",
+    "detail": "No.444,High Level Road,Colombo 06",
+    "image": "./r2.png"
+  },
+  {
+    "name": "City Lakeside",
+    "price": "25,853",
+    "detail": "N0.345,Main Street, Colombo 10",
+    "image": "./r3.png"
+  },
+  {
+    "name": "Urban City",
+    "price": "47,043",
+    "detail": "No.678,Cross Street,Kollupitiya",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Popular Garden",
+    "price": "66,353",
+    "detail": "No.613,Kandy road,Kandy",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Prime Garden City",
+    "price": "35,853",
+    "detail": "No.377,Main Street, NuwaraEliya",
+    "image": "./r3.png"
+  }
+]
